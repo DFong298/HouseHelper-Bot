@@ -1,0 +1,2 @@
+# HouseHelper Bot
+ Discord bot made with Discord.py meant for housekeeping among roommates
